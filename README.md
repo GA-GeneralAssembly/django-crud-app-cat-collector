@@ -1,0 +1,1 @@
+<img src="./main_app/static/images/HomePage.png" alt="Home Page">
