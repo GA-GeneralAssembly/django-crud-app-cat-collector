@@ -18,5 +18,6 @@ urlpatterns = [
         views.add_feeding, 
         name='add-feeding'
     ),
+    path('accounts/signup/', views.signup, name='signup'),
 ]
 
